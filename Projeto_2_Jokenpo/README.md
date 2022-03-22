@@ -6,6 +6,6 @@ Tesoura ganha do papel, mas perde para a pedra;<br>
 Papel ganha da pedra, mas perde para a tesoura.<br>
 
 
-
+Para acessar o código fonte do projeto acesse o arquivo index.js
 É necessario instalar o promp-sync. Para isso use:
 npm install prompt-sync
