@@ -1,8 +1,11 @@
-# Projetos_Bue
-Projetos Blue referente ao módulo 1
+# Projeto_2_Jokenpo
 
-Projeto 1 - Jornada Do Herói
+O Jokenpô é o popular jogo do "pedra, papel e tesoura". A premissa é simples, você tem 3 elementos para escolher, e cada um deles vence de um, e perde para o outro.<br><br>
+Pedra ganha da tesoura, mas perde para o papel;<br>
+Tesoura ganha do papel, mas perde para a pedra;<br>
+Papel ganha da pedra, mas perde para a tesoura.<br>
 
 
- <p>Para ser direcionado para a página do projeto
- <a href="https://github.com/joaofreitas-dev/Projetos_Bue/tree/main/Projeto_1_Jornada_Do_Heroi"> Click aqui</a>.</p>
+
+É necessario instalar o promp-sync. Para isso use:
+npm install prompt-sync
