@@ -1,9 +1,7 @@
-# projeto_1_Jornada_Do_Heroi
-Primeiro Projeto entregável da Blue
+Projetos Blue referente ao módulo 1
 
-Responda com sim ou não.
+Projeto 1 - Jornada Do Herói
 
-Para acessar o código fonte do projeto acesse o arquivo index.js
 
-É necessário instalar o prompt-sync, para isso use o camando:
-npm install prompt-sync
+ <p>Para ser direcionado para a página do projeto
+ <a href="https://github.com/joaofreitas-dev/Projetos_Bue/tree/main/Projeto_1_Jornada_Do_Heroi"> Click aqui</a>.</p>
