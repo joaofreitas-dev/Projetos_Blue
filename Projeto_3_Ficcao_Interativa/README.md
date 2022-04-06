@@ -1,8 +1,9 @@
-# Projetos_Bue
+# Projeto_Final
 Projetos Blue referente ao módulo 1
 
-Projeto Final - Ficção Interativa
+Projeto Final - Jogo De Ficção Interativa
 
+Para acessar o código fonte do projeto acesse o arquivo index.js
 
- <p>Para ser direcionado para a página do projeto
- <a href="https://github.com/joaofreitas-dev/Projetos_Bue/tree/main/Projeto_3_Ficcao_Interativa"> Click aqui</a>.</p>
+É necessário instalar o prompt-sync, para isso use o camando: npm install prompt-sync
+
