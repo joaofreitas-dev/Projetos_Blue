@@ -5,4 +5,4 @@ Projeto Final - Ficção Interativa
 
 
  <p>Para ser direcionado para a página do projeto
- <a href="https://github.com/joaofreitas-dev/Projetos_Bue/tree/main/Projeto_1_Jornada_Do_Heroi"> Click aqui</a>.</p>
+ <a href="https://github.com/joaofreitas-dev/Projetos_Bue/tree/main/Projeto_3_Ficcao_Interativa"> Click aqui</a>.</p>
