@@ -85,7 +85,7 @@ let relogio = {
     }
 }
 
-//Controle de distancia
+//Controle de distância
 
 
 let geolocalizador = {
@@ -146,7 +146,7 @@ for(let i; relogio.dia < 21; i++ ){
     console.log(`\n`)
     relogio.exibeTempo();
    
-    //Virificar status
+    //Verificar status
 let status = personagem.verificarStatus()
 
 if(status === true){
@@ -157,6 +157,8 @@ if(status === true){
 } else if(relogio.dia === 21 && geolocalizador.kmsPercorridos < geolocalizador.distanciaDoponto){
     console.log("Você não chegou a tempo, a nave de resgate acabou de sair.")
     break;
+} else if(relogio.dia === 21 && geolocalizador.kmsPercorridos === geolocalizador.distanciaDoponto){
+    console.log("Você conseguiu chegar a tempo. Agora é só esperar a nave chegar")
 }
 
 
